@@ -1,0 +1,23 @@
+{
+  "name": "reimagined-cupcake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightlxight/reimagined-cupcake.git"
+  },
+  "keywords": [],
+  "author": "nightlxight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightlxight/reimagined-cupcake/issues"
+  },
+  "homepage": "https://github.com/nightlxight/reimagined-cupcake#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
